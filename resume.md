@@ -27,7 +27,7 @@ Reasons to Hire me
 * [University of Washington][]
 
 
-** Student ** (2017 - 2021)
+Student (2017 - 2021)
 
 - Majoring in **Geography: Data Science**.
 - Maintaining a GPA above 1.0
@@ -36,7 +36,7 @@ Reasons to Hire me
 ## Merrill Gardens (Seattle, WA)
 [Merrill Gardens][] is a retirement home near the University of Washington
 
-** Server / Dishwasher**
+Server / Dishwasher
 (Forever ago - The foreseeable future)
 
 - I wash **dishes**.
