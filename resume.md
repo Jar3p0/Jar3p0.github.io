@@ -32,7 +32,9 @@ Student (2017 - 2021)
 - Majoring in **Geography: Data Science**.
 - Maintaining a GPA above 1.0
 - **Survived Covid** (mostly)
+
 ![Geography](https://invention-j.walsall.sch.uk/file/ms_website/w43/file/2019/01/24/geography_website_1.png)
+
 ## Merrill Gardens (Seattle, WA)
 [Merrill Gardens][] is a retirement home near the University of Washington
 
