@@ -17,7 +17,7 @@ Reasons to Hire me
   
 <li>I will work in exchange for money
 <li>I will probably do a good job
-<li>Excellent music taste
+<li>Excellent music taste</li>
   
 </ol>
 
