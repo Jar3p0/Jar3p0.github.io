@@ -15,8 +15,8 @@ http://www.linkedin.com/in/Example
 Reasons to Hire me
 <ol>
   
-<li>I will work in exchange for money
-<li>I will probably do a good job
+<li>I will work in exchange for money</li>
+<li>I will probably do a good job</li>
 <li>Excellent-pretty good music taste</li>
 
 
