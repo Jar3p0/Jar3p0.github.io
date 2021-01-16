@@ -13,13 +13,6 @@ http://www.linkedin.com/in/Example
 -Bill gates
 
 # Reasons to Hire me
-<ol>
-  
-<li>I will work in exchange for money</li>
-<li>I will probably do a good job</li>
-<li>Excellent-pretty good music taste</li>
-
-<ol>
 
 
 # Work Experience (only last 10 years)
