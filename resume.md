@@ -12,7 +12,7 @@ http://www.linkedin.com/in/Example
 
 -Bill gates
 
-Reasons to Hire me
+# Reasons to Hire me
 <ol>
   
 <li>I will work in exchange for money</li>
